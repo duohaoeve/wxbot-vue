@@ -2,4 +2,4 @@
 
 用作wechat bot的前端控制，类似后台管理网站。
 
-后端：https://github.com/a492253309/wxbot
+后端：https://github.com/duohaoeve/wxbot
